@@ -1,0 +1,11 @@
+{
+  "time": 20,
+  "interval": 1500,
+  "moveTime": "9000",
+  "task": {
+    "letters": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "l", "m", "x"],
+    "reward": 1.5,
+    "goldReward": 2
+  },
+  "nextLevel": 1
+}
