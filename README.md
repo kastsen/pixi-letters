@@ -1,7 +1,7 @@
 # PIXI Letters
 Typing keyboard game with falling letters.
 
-DEMO [Mental](https://mental.gatsbyjs.io/pixi-letters.html)
+[DEMO](https://mental.gatsbyjs.io/pixi-letters.html)
 
 ## Quick start
 
