@@ -29,6 +29,11 @@ export default class Field extends PIXI.Container {
 
 	addTile(i) {
 		const num = Tools.randomInteger(0, this.letters.length)
+		if (this.prevId === num) {
+			this.addTile(i)
+			return
+		}
+		this.prevId = num
 		const letter = this.letters[num]
 		const gold = Tools.randomInteger(1, 4) === 4
 		const tile = new PIXI.Text(letter, {
