@@ -15,7 +15,7 @@ Typing keyboard game with falling letters.
 
 2. **Open the source code and start editing.**
 
-   Your site is now running at `http://localhost:3032`!
+   Your site is now running at `http://localhost:3132`!
 
 ## What's inside?
 
@@ -41,10 +41,9 @@ A quick look at the top-level files and directories you'll see in a project.
 
 ## Features
 
-1.  PIXI.js
-2.  Webpack
+1. ES6
+2. PIXI.js
 3. OOP
-
 
 ___
 Author [Yury Kastsen](https://mental.gatsbyjs.io/)
