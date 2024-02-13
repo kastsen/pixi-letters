@@ -1,7 +1,7 @@
 # PIXI Letters
 Typing keyboard game with falling letters.
 
-[DEMO](https://mental.gatsbyjs.io/pixi-letters.html)
+[DEMO](https://mentalmerging.netlify.app/pixi-letters.html)
 
 ## Quick start
 
